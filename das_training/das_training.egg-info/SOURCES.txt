@@ -1,0 +1,6 @@
+setup.py
+das_training.egg-info/PKG-INFO
+das_training.egg-info/SOURCES.txt
+das_training.egg-info/dependency_links.txt
+das_training.egg-info/requires.txt
+das_training.egg-info/top_level.txt
