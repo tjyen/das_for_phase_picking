@@ -21,6 +21,7 @@ def print_hdf5_contents(filename):
         print_group_structure(hdf_file)
 
 def ploting(hdf5_filename, dir_nm):
+    
     with h5py.File(hdf5_filename, "r") as fp:
         ds = fp["data"]
         data = ds[...]
